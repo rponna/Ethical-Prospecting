@@ -1,0 +1,6 @@
+#bridge-frame-container iframe {
+	width:100%;
+	overflow-x:hidden;
+}
+
+.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}

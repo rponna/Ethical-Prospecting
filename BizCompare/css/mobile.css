@@ -1,0 +1,560 @@
+a{
+					color: blue;
+				}
+				.mobile-navigation{
+					border-color:blue;
+				}
+				.mobile-navigation:hover, .mobile-navigation:focus{
+					color: blue;
+				}
+				.ts-bt{
+					background: blue;
+					border-color:blue;
+				}
+				.ts-bt:hover, .ts-bt:focus{
+					color: blue;
+				}
+				.breadcrumbs a:hover{
+					color: blue;
+				}
+				.ts-style-button:hover{
+					background: blue;
+				}
+				.top-header ul li a:hover, .top-header ul li a:hover .fa{
+					color: blue;
+				}
+				.main-menu ul > li .dropdown-menu li a:hover,
+				.main-menu ul > li .dropdown-menu li.active a,
+				.main-menu ul > li .dropdown-menu li a:focus{
+					color: blue;
+				}
+				.main-menu ul > li .dropdown-menu > li.menu-item-has-children > a:hover:after{
+				  color: blue;
+				}
+				.ts-service-style-1 .service-icon:after{
+					box-shadow: 0 0 0 4px blue;
+					-moz-box-shadow: 0 0 0 4px blue;
+					-webkit-box-shadow: 0 0 0 4px blue;
+				}
+				.ts-service-style-1:hover .service-icon{
+					background: blue;
+				}
+				.ts-service-style-1 .read-more{
+					color: blue;
+				}
+				.ts-search-domain input[type="submit"],
+				.ts-search-domain input[type="submit"]:hover,
+				.ts-search-domain input[type="submit"]:focus{
+					background-color: blue;
+				}
+				.ts-search-domain .sm_links a:hover{
+					color: blue;
+				}
+				.ts-pricing-table-style1 a.cta_pricing:hover,
+				.ts-pricing-table-style1 a.cta_pricing:focus{
+					background: blue;
+				}
+				.ts-pricing-table-style1.active{
+					background: blue;
+				}
+				.ts-pricing-table-style1.active .price-unit{
+					background: blue;
+				}
+				.ts-pricing-table-style1.active a.cta_pricing:hover,
+				.ts-pricing-table-style1.active a.cta_pricing:focus{
+					color: blue;
+				}
+				.ts-testimonial-style1 .client-quote .fa{
+					color: blue;
+				}
+				.ts-testimonial-style1 .client-website a{
+					color: blue;
+				}
+				.owl-theme .owl-controls .owl-page.active{
+					border-color: blue;
+				}
+				.owl-theme .owl-controls .owl-page.active span, 
+				.owl-theme .owl-controls.clickable .owl-page:hover span {
+				  background: blue;
+				}
+				.ts-acordion h3 .fa{
+					color: blue;
+				}
+				.ts-acordion.ui-accordion .ui-accordion-header .ui-accordion-header-icon{
+					color: blue;
+				}
+				.ts-acordion .ui-accordion-header:before{
+					color: blue;
+				}
+				.ts-acordion.ts-acordion-style2 .ui-accordion-header.ui-state-active{
+					color: blue;
+				}
+				.ts-acordion.ts-acordion-style2.ui-accordion .ui-accordion-header.ui-state-active .ui-accordion-header-icon{
+					color: blue;
+				}
+				.ts-domain-price-box .domain-price{
+					color: blue;
+				}
+				.ts-service-style-2:hover .icon-service{
+					color: blue;
+				}
+				.ts-service-style-2:hover h3{
+					color: blue;
+				}
+				.ts-pricing-table-style2 a.cta_pricing:hover{
+					background: blue;
+				}
+				.ts-pricing-table-style2.active{
+					background: blue;
+				}
+				.ts-pricing-table-style2.active a.cta_pricing:hover{
+					color: blue;
+				}
+				.ts-testimonial-style2 .client-website a {
+				  color: blue;
+				}
+				.ts-testimonial-style2.dark .client-website a:hover{color: blue;}
+				.ts-feature-item-style2 .icon-feature{
+					color: blue;
+				}
+				.ts-feature-item-2 .feature-icon{
+					background: blue;
+				}
+				.ts-item-post .ts-main-recent-post a:hover h4{
+					color:blue;
+				}
+				.ts-item-post h4 a:hover{
+					color: blue
+				}
+				.ts-item-post .ts-item-post-footer i{
+					color: blue;
+				}
+				.ts-item-post .ts-item-post-footer a:hover{
+					color: blue;
+				}
+				.ts-section-top-footer{
+					background: blue;
+				}
+				.contact-info:hover span{
+					border-color: blue;
+				}
+				.contact-info:hover span i{
+					color: blue;
+				}
+				.ts-company-info a:hover{
+					color: blue;
+				}
+				.ts-support ul li a:hover{
+					color: blue;
+				}
+				.ts-support ul li i{
+					color: blue;
+				}
+				.ts-control-pane ul li a:hover{
+					color: blue;
+				}
+				.ts-control-pane ul li i{
+					color: blue;
+				}
+				.ts-form-subscribe .subcribe-btn{
+					background: blue;
+				}
+				.ts-social-footer a:hover span{
+					background: blue;
+				}
+				.ts-menu-footer ul li a:hover{
+					color: blue;
+				}
+				.ts-service-style3 a:hover h4{
+					color: blue;
+				}
+				.ts-special-offer .ts-special-offer-content ul li:before{
+					color: blue;
+				}
+				.ts-special-offer .ts-special-offer-content ul a:hover{
+					color: blue;
+				}
+				.ts-hosting-price span.ts-special-offer-price{
+					color:blue;
+				}
+				.ts-special-offer-content .ts-offer-right a{
+					background: blue;
+				}
+				.ts-number-statistic i{
+					color: blue;
+				}
+				.ts-number-statistic a:hover{
+					color: blue;
+				}
+				.ts-number-statistic a:hover h3{
+					color: blue;
+				}
+				.widget-list-posts i{
+					color: blue;
+				}
+				.widget-list-posts a:hover{
+					color: blue;
+				}
+				.ts-list-popular-topics li .red-text{
+					color:blue;
+				}
+				footer .widget ul li a:before{
+					color: blue;
+				}
+				.ts-big-caption span, .ts-big-caption-center span{
+					color: blue;
+				}
+				.ts-caption-small-center{
+					color: blue!important;
+				}
+				.ts-caption-small .fa{
+					background: blue;
+				}
+				.ts-caption-small-right .fa{
+					background: blue;
+				}
+				.ts-price-rev span, .ts-price-rev-right span{
+					color: blue;}
+				.ts-button-slide-2{
+					background: blue!important;
+					border-color: blue!important;
+				}
+				.ts-button-slide:hover{
+					background: blue!important;
+					border-color: blue!important;
+				}
+				.ts-button-slide-2:hover a,
+				.ts-button-slide-2 a:hover{
+					color: blue;
+				}
+				.ts-number{
+					color: blue;
+				}
+				.tp-leftarrow.default:hover, .tp-rightarrow.default:hover{
+					color: blue;
+				}
+				.ts-whmcs li .item-right strong a:hover{
+					color: blue;
+				}
+				.date-post span.month{
+					background: blue;
+				}
+				.blog-item h3 a:hover{
+					color: blue;
+				}
+				.blog-meta li a:hover{
+					color: blue;
+				}
+				.blog-meta li .fa{
+					color: blue;
+				}
+				.ts-button:hover, input[type="submit"]:hover, .more-link:hover, button:hover{
+					background:  blue;
+					border-color: blue;
+				}
+				.blog-item .group-share a:hover, .group-share a:hover {
+					color: blue;
+				}
+				.pagination > .active > a, 
+				.pagination > .active > span, 
+				.pagination > .active > a:hover, 
+				.pagination > .active > span:hover, 
+				.pagination > .active > a:focus, 
+				.pagination > .active > span:focus,
+				.pagination > li > a:hover,
+				.pagination > li > a:focus,
+				.page-links a:hover {
+					background-color: blue;
+				    border-color: blue;
+				}
+				.page-links > span{
+					background-color: blue;
+				  	border-color:blue;
+				}
+				.blog-quote{
+					border-color: blue;
+				}
+				.blog-link:before{
+					color: blue;
+				}
+				.owl-theme .owl-controls .owl-buttons div:hover, .owl-theme .owl-controls .owl-buttons div:focus {
+				  background: blue;
+				 }
+				 blockquote{
+					border-color:blue;
+				}
+				#searchform button[type="submit"]:hover{
+					background: blue;
+				}
+				.widget ul li a:before, .widget_recent_comments li.recentcomments:before {
+					color: blue;
+				}
+				.widget ul li a:hover{
+					color: blue;
+				}
+				.domainchecker  button[type="submit"]:hover{
+					background: blue!important;
+				}
+				.widget_tag_cloud .tagcloud a:hover{
+					background: blue;
+				}
+				.comment-item .comment-reply-link:hover{
+					color: blue;
+				}
+				.ts-service-style-3 .icon-service{
+					color: blue;
+				}
+				.ts-service-style-4:hover .icon-service{
+					background: blue;
+					border-color: blue;
+				}
+				.ts-service-style-5 .icon-service{
+					background: blue;
+
+
+				}
+				.team-item-style2 .social-network a:hover{
+					background: blue;
+				}
+				.team-item .social-network-team  li a:hover{
+					color: blue;
+				}
+				.ts-list-ul ul li:before{
+					color: blue;
+				}
+				.countdownstyle1 .ts-date-countdown.ts-day-count{
+					background: blue
+				}
+				.countdownstyle2 .ts-date-countdown.ts-day-count{
+					color: blue;
+				}
+				#wp-calendar a:hover{
+				    color: blue;
+				}
+				.ts-showmore:hover{
+					background: blue;
+				}
+				.quote-type-style2:before{
+					color: blue;
+				}
+				.ts-list-style ul li a:hover{
+					color: blue;
+				}
+				.ts-list-style.underlist li a{
+					color: blue;
+				}
+				#filters-portfolio .cbp-filter-item.cbp-filter-item-active,
+				#filters-portfolio .cbp-filter-item:hover{
+					background-color: blue;
+				}
+				.ts-contact-infomation a:hover{
+					color: blue;
+				}
+				.ts-menu-sidebar > ul > li.menu-item-has-children.current_page_item > a,
+				.ts-menu-sidebar > ul > li.menu-item-has-children.current_page_item > a:hover,
+				.ts-menu-sidebar > ul > li.menu-item-has-children.current-menu-parent > a,
+				.ts-menu-sidebar > ul > li.menu-item-has-children.current-menu-parent > a:hover,
+				.ts-menu-sidebar > ul > li.current_page_item > a,
+				.ts-menu-sidebar > ul > li.current_page_item > a:hover{
+					background: blue;
+				}
+				.ts-menu-sidebar > ul > li.menu-item-has-children.current_page_item > a:after,
+				.ts-menu-sidebar > ul > li.menu-item-has-children.current-menu-parent > a:after,
+				.ts-menu-sidebar > ul > li.current_page_item > a:after{
+					border-left: 6px solid blue;
+				}
+				.ts-menu-sidebar li .sub-menu a:hover,
+				.ts-menu-sidebar li .sub-menu li.current_page_item a{
+					color: blue;
+				}
+				.contact-info span{background:blue; }
+				/* WOOCOMERCE */
+				.woocommerce nav.woocommerce-pagination ul li a:hover, 
+				.woocommerce nav.woocommerce-pagination ul li span.current, 
+				.woocommerce #content nav.woocommerce-pagination ul li a:hover, 
+				.woocommerce #content nav.woocommerce-pagination ul li span.current, 
+				.woocommerce-page nav.woocommerce-pagination ul li a:hover, 
+				.woocommerce-page nav.woocommerce-pagination ul li span.current, 
+				.woocommerce-page #content nav.woocommerce-pagination ul li a:hover, 
+				.woocommerce-page #content nav.woocommerce-pagination ul li span.current{
+				    background: blue!important;
+				    border-color: blue!important;
+				}
+				.woocommerce .star-rating span, .woocommerce-page .star-rating span {
+				    color: blue!important;
+				}
+				.woocommerce table.cart a.remove:hover, .woocommerce #content table.cart a.remove:hover, .woocommerce-page table.cart a.remove:hover, .woocommerce-page #content table.cart a.remove:hover {
+				    color: blue!important;
+				}
+				.woocommerce .addresses .title .edit:hover, .woocommerce-page .addresses .title .edit:hover{
+				    background: blue!important;
+				}
+				.price_slider_amount .price_label span{
+				    color: blue!important;
+				}
+				.woocommerce .widget_price_filter .ui-slider .ui-slider-handle, 
+				.woocommerce-page .widget_price_filter .ui-slider .ui-slider-handle{
+				    background: blue!important;
+				}
+				.chosen-container-single .chosen-single span:after {
+				    color: blue!important;
+				}
+				.widget_price_filter .ui-slider-horizontal {
+				    background: blue!important;
+				}
+				.widget_price_filter .price_slider_amount .button:hover{
+				    background: blue!important;
+				}
+				.product-categories li a:before {
+				    color: blue!important;
+				}
+				.product-categories li a:hover {
+				    color: blue!important;
+				}
+				.woocommerce  a.button.product_type_simple:hover,
+				.woocommerce  a.button.product_type_variable:hover,
+				.woocommerce  a.button.add_to_cart_button:hover,
+				.woocommerce  a.button.product_type_simple.added:hover,
+				.woocommerce  a.button.product_type_simple:hover{
+				    background: blue!important;
+				    color: blue!important;
+				}
+				#commentform .stars > span a:hover:before, #commentform .stars > span a.active:before {
+				  color: blue!important;
+				}
+				.woocommerce .comment-form input[type="submit"]:hover{
+				    background: blue!important;
+				}
+				.shipping_calculator h2 a:hover{
+				    color: blue!important;
+				}
+				.added_to_cart.wc-forward:hover{
+				    background: blue!important;
+				}
+				.woocommerce-message .button:hover{
+				    background: blue!important;
+				}
+				li.mini-shoping-cart-wraper .buttons a:hover{
+				    background: blue!important;
+				}
+				.toggle-bar-btn {
+					border-color: blue blue transparent transparent;
+				}
+				.widget_mc4wp_widget input[type="submit"]{
+					background: blue
+				}
+				.ts-suport-header .header-suport  .header-phone{
+					color: blue;
+				}
+				.ts-suport-header .header-signup-chat li.header-chat span.icon{
+					background: blue;
+				}
+				.main-header-style2 .main-menu > ul > li > a:hover,
+				.main-header-style2 .main-menu > ul > li:hover > a{
+					background: none;
+					color: blue;
+				}
+				.ts-special-offer-style2  .ts-special2 a{
+					background: blue;
+				}
+				.ts-special-offer-style2  .ts-special2 a:hover{
+					color: blue;
+				}
+				.ts-mediumcaption-3 span{
+					color: blue;
+				}
+				.ts-listcaption1-3:before{
+					color: blue;
+				}
+				.ts-listcaption1-3 span{
+					color: blue;
+				}
+				.ts-button-s3{
+					background: blue!important;
+				}
+				.tp-caption.ts-button-s3:hover a, .tp-caption.ts-button-s3 a:hover{color: blue;}
+				.ts-button-s3:hover{
+					color: blue;
+				}
+				.ts-small-caption-3 span{
+					color: blue;
+				}
+				.tp-caption.ts-bg-3, .ts-bg-3{
+					background: rgba(253,67, 38, 0.5)!important;
+				}
+				.ts-service-img .service-content a.cta_pricing{
+				    background: blue;
+				    border-color:blue;
+				}
+				.ts-service-img .service-content a.cta_pricing:hover{
+				    color: blue;
+				}
+				.ts-pricing-table-style3 .price-icon .pricing-icon{
+				    background: blue;
+				}
+				.ts-pricing-table-style3 .price-unit .price-unit{
+				    color: blue;
+				}
+				.ts-pricing-table-style3.active .price-unit{
+				    background: blue;
+				}
+				.ts-pricing-table-style3 p a.cta_pricing:hover,.ts-pricing-table-style3.active a.cta_pricing{
+				    background: blue;
+				    border-color:blue;
+				}
+				.ts-pricing-table-style3.active a.cta_pricing:hover{
+				    color: blue;
+				}
+				li.mini-shoping-cart-wraper a:hover span,
+				li.mini-shoping-cart-wraper:hover a span{
+					border-color: blue;
+				}
+				.ts-pricingtable-5 .price-icon{
+					background: blue;
+				}
+				.ts-pricingtable-5 .price-unit{
+					color: blue;
+				}
+				.ts-pricingtable-5 .ts-bt-pricing{
+					background: blue; 
+					border-color: blue;
+				}
+				.ts-pricingtable-5 .ts-bt-pricing:hover{
+					color: blue;
+				}
+				.ts-pricingtable-5 table td .inner-td.ts-icon-check, .ts-icon-check{
+					color: blue;
+				}
+				.ts-search-whois #domain .l1 input[type="submit"]{
+					background-color: blue;
+				}
+				.ts-pricing-table-style3.ts-whmpress button:hover{
+					border-color: blue;
+				}
+				.ts-pricing-table-style3.active.ts-whmpress button{
+					background: blue;
+					border-color: blue;
+				}
+				.ts-pricing-table-style3.active.ts-whmpress button:hover{
+					color: blue;
+				}
+				.ts-service-img.ts-whmpress .service-content button {
+				  background: blue;
+				  border-color: blue;
+				}
+				.ts-service-img.ts-whmpress .service-content button:hover {
+				  color: blue;
+				}
+				.ts-pricing-table-style2.ts-whmpress.active button:hover {
+				  color: blue;
+				}
+				.ts-pricing-table-style2.ts-whmpress button:hover {
+				  background: blue;
+				}
+				.ts-pricing-table-style1.ts-whmpress button:hover, 
+				.ts-pricing-table-style1.ts-whmpress button:focus {
+				  background: blue;
+				}
+				.ts-pricing-table-style1.ts-whmpress.active button:hover{
+					color: blue;
+				}
